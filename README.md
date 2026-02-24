@@ -1,6 +1,7 @@
 
 # *teckie1 HomeLab - Proxmox Cyberlab architecture*
-*Segmentatation - Self-hosted - Learning focused*
+
+>*Segmentatation - Self-hosted - Learning focused*
 # Overview 
 
 This homelab is built around Proxmox VE as the central platform, replacing TrueNAS Scale. 
