@@ -1,5 +1,5 @@
 
-## *teckie1 HomeLab - Proxmox Cyberlab architecture*
+# *teckie1 HomeLab - Proxmox Cyberlab architecture*
 *Segmentatation - Self-hosted - Learning focused*
 # Overview 
 
